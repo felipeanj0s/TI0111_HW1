@@ -3,7 +3,10 @@
 
 # TI0111 – Homework 1: Estatística Descritiva
 
-**Autor:** Felipe
+
+Nome: Felipe Anjos Justino Ribeiro | Matrícula: 563543
+
+Prof: Michela Mulas
 
 ---
 
