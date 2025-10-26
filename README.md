@@ -1,13 +1,6 @@
----
 title: "TI0111 – Homework 1: Estatística Descritiva"
 author: "Felipe"
 output: pdf_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
-library(tidyverse)
-library(lubridate)
 
 Q1 — Emissões
 
